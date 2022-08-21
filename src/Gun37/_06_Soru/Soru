@@ -1,0 +1,3 @@
+Kare, Dikdortken, ve daire sınıflarından oluşacak bir geometri programı
+yapılmak isteniyor.bunların ayrı ayrı , fakat ortak metodlarının
+(cevresi() ve alani() )zorunlu olabilmesi için gerekli yapıyı kurunuz ve yazınız.

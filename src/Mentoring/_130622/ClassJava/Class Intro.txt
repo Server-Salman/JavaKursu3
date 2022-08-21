@@ -1,0 +1,5 @@
+-Sınıf (Class) soyut bir veri tipidir. Nesne (Object) onun somutlaşan bir cismidir.
+-Classlar veri saklama konusunda en esnek tiplerden biridir.
+-Classlar bir çok tipte veri yaşıyıcı içerebilirler (Attributes)
+-Nesneler new lendikleri esnada heap denen kalıcı hafızada oluşurlar. (Javada heap  (kalıcı) ve stack (geçici/ön bellek) denen iki çeşit hafıza tipi vardır)
+

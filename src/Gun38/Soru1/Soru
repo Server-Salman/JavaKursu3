@@ -1,0 +1,10 @@
+Ekteki Tasarıma göre gerekli modülleri yazınız.
+Sonra bir main metodunda, TeslaCar dan, ToyotaPirus
+dan ve cityBus dan birer nesne üretiniz.
+
+- ürettiğiniz nesneleri bir ArrayListe ekletip, daha sonra
+bu ArrayList i bir döngü ile metodlarını ekrana yazdırınız.
+
+engine (double)
+model (String)
+metodların hepsinin tipi String

@@ -1,0 +1,21 @@
+statik olmayan method her çağrıldığında bekllekte o method için yeni bir referans numarası oluşturulur. birden çok kez tahsis edilebilir
+oluşturulduğu nesneye özgüdür nesne oluşturulmadan kullanılamaz. eğer farklı sayfalarda farklı nesneler oluşturularak kullanılmak istenirse
+her oluşturulduğunda hafızada yeni bir referans numarası alır.
+
+statik olan methodlar bellekte program çalıştırılırken bir kez yer tahsis edilir. daima oradan kullanılır
+her nesne için ortaktır.
+daima sınıc ismi ile çağrılır ve kullanılır
+
+Static bir method non static bir methodu kullanamaz. !!!
+
+eğer bir method nesneye özel olmayacaksa ve hafıza endişesi taşımıyorsak statik method kullanmak
+bize daima hız kazandırır.
+
+static method der ki: beni kullanmak istiyosan newleme yapmana gerek yok.
+istediğin yerden beni sınıf referansımla çağırıp kullanabilirsin.
+
+Math.random();
+
+non-static method der ki: beni kullanmak istediğinde muhakkak benim bulunduğum classdan
+bir nesne oluşturman gerekir. ve benim işim o nesneyle alakalı olmalı.
+
